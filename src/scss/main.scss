@@ -1,0 +1,10 @@
+@import 'variables';
+body{
+  background: $background;
+  h1{
+    text-transform: uppercase;
+    font-style: 3rem;
+    color: white;
+    font-weight: 600;
+  }
+}
